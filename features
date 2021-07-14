@@ -1,2 +1,1 @@
-use-npm-ci=0
-cache-native-yarn-cache=50
+cache-native-yarn-cache=100
